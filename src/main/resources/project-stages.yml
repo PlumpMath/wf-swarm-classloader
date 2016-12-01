@@ -1,0 +1,5 @@
+service:
+    service-name: "timeservice"
+swarm:
+    port:
+        offset: 0
